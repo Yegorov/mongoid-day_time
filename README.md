@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Yegorov/mongoid-day_time.svg?branch=master)](https://travis-ci.org/Yegorov/mongoid-day_time)
+[![Gem Version](https://badge.fury.io/rb/mongoid-day_time.svg)](https://badge.fury.io/rb/mongoid-day_time)
+
 # Mongoid DayTime type
 
 Save time in minutes from midnight and show as 24-format string in `HH:MM`
